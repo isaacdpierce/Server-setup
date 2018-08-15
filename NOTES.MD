@@ -20,3 +20,8 @@
 - ORM - Object Relational Mapping
 - a library that is used to interface with the database
 - it interacts with the models
+
+## req.body
+
+- any data contained in a post request (req)
+- pull data out of the request object when it is a post request with req.body

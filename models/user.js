@@ -1,8 +1,8 @@
-// Set up instructions (data model) for mongoose to handle
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
-
 // Schema is used to tell mongoose about the particular fields the model will have
+
+// Set up instructions (data model) for mongoose to handle
 
 // Define the model
 const userSchema = new Schema({
